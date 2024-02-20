@@ -1,0 +1,350 @@
+body{
+    
+    padding: 0;
+    margin: 0;
+    font-family: Helvetica;
+    
+}
+
+
+
+
+
+.main_pic {
+     display: flex;
+     align-items: center;  
+}
+
+
+.gallery img{
+    
+    width: 100%;
+}
+
+.main_pic img{
+    width:50%;
+    height: auto;
+    margin-right: 20px;
+}
+img{
+    border-radius: 20px;
+    padding-bottom: 20px;
+    border-bottom-left-radius: 50px;
+    padding left: 0px;
+}
+.main_pic p {
+    flex: 1; 
+   
+}
+
+h1{
+    padding-left: 40%;
+    background-color: whitesmoke;
+}
+
+p{
+    background-color: gainsboro;
+    
+}
+
+
+.catalogue{
+    display: flex;
+    padding-left: 100px;
+   
+    
+}
+
+
+#content{
+   padding-top: 1px;
+   padding-bottom: 50px;
+      
+}
+
+
+
+
+
+
+
+.image-div {
+  display: inline-block;
+  width: calc(33.33% - 20px);
+  box-sizing: border-box; 
+  padding: 10px; 
+  vertical-align: top; 
+}
+
+.image-div img {
+  max-width: 100%; 
+  height: auto; 
+  
+}
+
+
+html{
+    background-color: gainsboro;
+    
+}
+
+a{
+    padding-left: 50px;
+}
+
+section{
+    padding-left: 150px;
+    border-radius: 100px;
+}
+
+#section1{
+    
+    padding-left: 1000px;
+}
+
+#menu{
+    width: 100%;
+    height: 40px;
+    background-color:cadetblue;
+    
+    padding-top: 12px;
+    padding-bottom: 15px;
+}
+
+#menu a{
+    
+    color: white;
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 800;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+
+#menu a:hover{
+    color:#5077bd;
+}
+
+h3{
+    font-family: Helvetica, sans-serif;
+    padding-left: 50px;
+    font size: 100px;
+}
+
+
+
+
+
+
+/*=======================================INFO-BOX===========================================*/
+
+
+ a.info-box{
+    
+      text-decoration : none;
+      background-color      : cadetblue;
+      width           : 90%;
+      height          : 90px;
+      display         : block;
+      margin          : auto;
+      margin-top      : 12px;
+      padding         : 1px; 
+      
+    
+} 
+
+.info-box img{
+      height : 70px;
+      float  : left;
+}
+
+.info-box h3{
+      padding : 0;
+      margin-bottom :0;
+      width : 90%;
+      color : #572800;
+      background-color: cadetblue;
+}
+
+.info-box p{
+      margin  : 0;
+      padding : 0;
+      width   : 90%;
+      color   : #131313;
+      background-color: cadetblue;
+}
+
+.info-box img.right{
+      float      : right;
+      margin-top : 25px;
+      height     :40px; 
+}
+
+
+#info-box-full{
+      background-color : rgba(255, 255, 255, .8) ;
+      width   : 90%;
+      display : block;
+      margin  : auto;
+      margin-top : 12px;
+      padding    : 10px;
+}
+
+
+
+#info-box-full img{
+      width : 100%;
+}
+
+
+
+#info-box-full h3{
+      text-align : center;
+    color: cadetblue;
+} 
+
+
+
+
+/*=======================================CONTACT US PAGE===========================================*/
+
+        
+ .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+ }
+
+ .mall-image {
+    max-width: 100%;
+    height: auto;
+ }
+
+
+ .contact-info {
+    margin-top: 20px;
+ }
+
+ .contact-form {
+    margin-top: 20px;
+ }
+
+.contact-form label,
+.contact-form input,
+.contact-form textarea {
+    
+    
+ display: block;
+   margin-bottom: 10px;
+   width: 100%;
+   box-sizing: border-box;
+ }
+
+
+ .contact-form textarea {
+  height: 100px;
+        }
+ .contact-form button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  }
+
+
+ .contact-form button:hover {
+    background-color: #45a049;
+ }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
